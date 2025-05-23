@@ -1,4 +1,4 @@
-#CodeAlpha_To-Do-List
+# CodeAlpha_To-Do-List
 
 A clean and simple web-based application for managing daily tasks. Built with HTML, CSS, and JavaScript, it offers a responsive, intuitive interface for adding, editing, and deleting tasks efficiently.
 
