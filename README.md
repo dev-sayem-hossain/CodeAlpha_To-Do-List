@@ -1,4 +1,4 @@
-![to do list](https://github.com/user-attachments/assets/57d44824-9f9f-4d91-9172-fda2ec69590e)# CodeAlpha_To-Do-List
+#CodeAlpha_To-Do-List
 
 A clean and simple web-based application for managing daily tasks. Built with HTML, CSS, and JavaScript, it offers a responsive, intuitive interface for adding, editing, and deleting tasks efficiently.
 
@@ -8,7 +8,7 @@ A clean and simple web-based application for managing daily tasks. Built with HT
 
 🌐 Live Demo---
 
-  https://dev-sayem-hossain.github.io/CodeAlpha_To-Do-List/
+  [https://dev-sayem-hossain.github.io/CodeAlpha_To-Do-List/](https://dev-sayem-hossain.github.io/CodeAlpha_To-Do-List/)
 
 🚀 Features---
 
